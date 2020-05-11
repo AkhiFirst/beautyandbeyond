@@ -1,0 +1,424 @@
+0000.001 (0) Opened log file at time: Wed, 29 Apr 2020 04:23:39 +0000 on http://192.168.1.168/beautyandbeyond
+0000.028 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.1.4 PHP: 7.4.4 (apache2handler, Windows NT DESKTOP-JJFPS69 10.0 build 18363 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 56.6M | 6M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.078 (0) Free space on disk containing Updraft's temporary directory: 747466.5 MB
+0000.141 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.238 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.391 (0) Set semaphore last lock (fd) time to 2020-04-29 04:23:39
+0000.431 (0) Semaphore lock (fd) complete
+0000.698 (0) Backup run: resumption=0, nonce=08bc24c41196, file_nonce=08bc24c41196 begun at=1588134219 (1s ago), job type=backup
+0001.030 (0) Scheduling a resumption (1) after 300 seconds (1588134520) in case this run gets aborted
+0001.958 (0) Checking if we have a zip executable available
+0002.136 (0) Creation of backups of directories: beginning
+0002.441 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0006.710 (0) Total entities for the zip file: 1343 directories, 7676 files (0 skipped as non-modified), 112.9 MB
+0006.807 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0007.112 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 100 files added (on-disk size: 242.3 KB)
+0007.235 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 200 files added (on-disk size: 242.3 KB)
+0007.336 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 300 files added (on-disk size: 242.3 KB)
+0007.466 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 400 files added (on-disk size: 242.3 KB)
+0007.713 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 500 files added (on-disk size: 242.3 KB)
+0007.758 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.7 MB, 7676 files batched, 501 (502) added so far); re-opening (prior size: 242.3 KB)
+0009.197 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 600 files added (on-disk size: 3266.3 KB)
+0009.370 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 700 files added (on-disk size: 3266.3 KB)
+0009.486 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 800 files added (on-disk size: 3266.3 KB)
+0009.622 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 900 files added (on-disk size: 3266.3 KB)
+0009.786 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 1000 files added (on-disk size: 3266.3 KB)
+0009.871 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.5 MB, 7676 files batched, 501 (1003) added so far); re-opening (prior size: 3266.3 KB)
+0010.921 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 1100 files added (on-disk size: 4827.1 KB)
+0011.092 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 1200 files added (on-disk size: 4827.1 KB)
+0011.219 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 1300 files added (on-disk size: 4827.1 KB)
+0011.388 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 1400 files added (on-disk size: 4827.1 KB)
+0011.500 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 1500 files added (on-disk size: 4827.1 KB)
+0011.565 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.8 MB, 7676 files batched, 501 (1504) added so far); re-opening (prior size: 4827.1 KB)
+0012.655 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 1600 files added (on-disk size: 7836.9 KB)
+0012.914 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 1700 files added (on-disk size: 7836.9 KB)
+0013.147 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 1800 files added (on-disk size: 7836.9 KB)
+0013.320 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 1900 files added (on-disk size: 7836.9 KB)
+0013.532 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 2000 files added (on-disk size: 7836.9 KB)
+0013.571 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.8 MB, 7676 files batched, 501 (2005) added so far); re-opening (prior size: 7836.9 KB)
+0014.496 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 2100 files added (on-disk size: 9285.1 KB)
+0014.728 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 2200 files added (on-disk size: 9285.1 KB)
+0014.903 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 2300 files added (on-disk size: 9285.1 KB)
+0015.246 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 2400 files added (on-disk size: 9285.1 KB)
+0015.389 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 2500 files added (on-disk size: 9285.1 KB)
+0015.474 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.2 MB, 7676 files batched, 501 (2506) added so far); re-opening (prior size: 9285.1 KB)
+0017.288 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 2600 files added (on-disk size: 14386.7 KB)
+0017.671 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 2700 files added (on-disk size: 14386.7 KB)
+0017.794 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 2800 files added (on-disk size: 14386.7 KB)
+0017.992 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 2900 files added (on-disk size: 14386.7 KB)
+0018.154 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 3000 files added (on-disk size: 14386.7 KB)
+0018.230 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (17.2 MB, 7676 files batched, 501 (3007) added so far); re-opening (prior size: 14386.7 KB)
+0021.500 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 3100 files added (on-disk size: 18953 KB)
+0022.067 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 3200 files added (on-disk size: 18953 KB)
+0022.165 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 3300 files added (on-disk size: 18953 KB)
+0022.316 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 3400 files added (on-disk size: 18953 KB)
+0022.419 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 3500 files added (on-disk size: 18953 KB)
+0022.485 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.1 MB, 7676 files batched, 501 (3508) added so far); re-opening (prior size: 18953 KB)
+0023.797 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 3600 files added (on-disk size: 19915.4 KB)
+0024.088 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 3700 files added (on-disk size: 19915.4 KB)
+0024.203 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 3800 files added (on-disk size: 19915.4 KB)
+0024.333 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 3900 files added (on-disk size: 19915.4 KB)
+0024.478 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 4000 files added (on-disk size: 19915.4 KB)
+0024.527 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.7 MB, 7676 files batched, 501 (4009) added so far); re-opening (prior size: 19915.4 KB)
+0025.684 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 4100 files added (on-disk size: 21764.5 KB)
+0025.936 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 4200 files added (on-disk size: 21764.5 KB)
+0026.294 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 4300 files added (on-disk size: 21764.5 KB)
+0026.520 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 4400 files added (on-disk size: 21764.5 KB)
+0026.706 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 4500 files added (on-disk size: 21764.5 KB)
+0026.780 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.4 MB, 7676 files batched, 501 (4510) added so far); re-opening (prior size: 21764.5 KB)
+0028.081 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 4600 files added (on-disk size: 23327.4 KB)
+0028.192 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 4700 files added (on-disk size: 23327.4 KB)
+0028.330 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 4800 files added (on-disk size: 23327.4 KB)
+0028.496 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 4900 files added (on-disk size: 23327.4 KB)
+0028.679 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 5000 files added (on-disk size: 23327.4 KB)
+0028.847 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.5 MB, 7676 files batched, 501 (5011) added so far); re-opening (prior size: 23327.4 KB)
+0030.717 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 5100 files added (on-disk size: 24922.9 KB)
+0030.853 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 5200 files added (on-disk size: 24922.9 KB)
+0031.023 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 5300 files added (on-disk size: 24922.9 KB)
+0031.240 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 5400 files added (on-disk size: 24922.9 KB)
+0031.361 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 5500 files added (on-disk size: 24922.9 KB)
+0031.419 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.8 MB, 7676 files batched, 501 (5512) added so far); re-opening (prior size: 24922.9 KB)
+0034.216 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 5600 files added (on-disk size: 27000.3 KB)
+0034.547 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 5700 files added (on-disk size: 27000.3 KB)
+0034.611 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 192 (5704) files added so far); re-opening (prior size: 27000.3 KB)
+0037.320 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 5800 files added (on-disk size: 27274.2 KB)
+0037.587 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 5900 files added (on-disk size: 27274.2 KB)
+0037.700 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 6000 files added (on-disk size: 27274.2 KB)
+0037.823 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 6100 files added (on-disk size: 27274.2 KB)
+0037.935 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 6200 files added (on-disk size: 27274.2 KB)
+0038.009 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.9 MB, 7676 files batched, 501 (6205) added so far); re-opening (prior size: 27274.2 KB)
+0041.834 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 6300 files added (on-disk size: 29305 KB)
+0042.028 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 6400 files added (on-disk size: 29305 KB)
+0042.178 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 6500 files added (on-disk size: 29305 KB)
+0042.299 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 6600 files added (on-disk size: 29305 KB)
+0042.488 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 6700 files added (on-disk size: 29305 KB)
+0042.569 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.8 MB, 7676 files batched, 501 (6706) added so far); re-opening (prior size: 29305 KB)
+0047.694 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 6800 files added (on-disk size: 33157.4 KB)
+0047.944 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 6900 files added (on-disk size: 33157.4 KB)
+0048.151 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 7000 files added (on-disk size: 33157.4 KB)
+0048.298 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 7100 files added (on-disk size: 33157.4 KB)
+0048.449 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 7200 files added (on-disk size: 33157.4 KB)
+0048.548 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.4 MB, 7676 files batched, 501 (7207) added so far); re-opening (prior size: 33157.4 KB)
+0051.390 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 7300 files added (on-disk size: 34668.4 KB)
+0051.770 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 7400 files added (on-disk size: 34668.4 KB)
+0051.920 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 7500 files added (on-disk size: 34668.4 KB)
+0052.062 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip.tmp: 7600 files added (on-disk size: 34668.4 KB)
+0055.400 (0) Created plugins zip (0) - 38524.7 KB in 52.9 s (728.5 KB/s) (sha1: 4ac351ec6affaf7f635fa4c9d827a318aea638f0, sha256: a93f8815161da3afffd2ce86e3aeafef29ba132be44651ebc8de55e7dc502362)
+0055.504 (0) Beginning creation of dump of themes (split every: 400 MB)
+0056.031 (0) Total entities for the zip file: 143 directories, 757 files (0 skipped as non-modified), 11.6 MB
+0056.603 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0056.745 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0056.867 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0057.017 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0057.208 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0057.306 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7 MB, 757 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0058.342 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-themes.zip.tmp: 600 files added (on-disk size: 3172.9 KB)
+0058.534 (0) Zip: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-themes.zip.tmp: 700 files added (on-disk size: 3172.9 KB)
+0059.411 (0) Created themes zip (0) - 6152.4 KB in 3.9 s (1592 KB/s) (sha1: 16af3f53203ea3223af23c8038e037b8b269639a, sha256: 48cfccb54b605a2d6f19d63568d95de0dc6a65200cec75cff8bf9554468c3850)
+0059.509 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0059.547 (0) Looking for candidates to backup in: C:\xampp\htdocs\beautyandbeyond/wp-content/uploads
+0059.587 (0) finding files: 2020: adding to list (1)
+0059.644 (0) finding files: wc-logs: adding to list (2)
+0059.686 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (3)
+0059.801 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (4)
+0059.899 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (5)
+0060.025 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (6)
+0060.076 (0) finding files: woocommerce-placeholder-600x600.png: adding to list (7)
+0060.103 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (8)
+0060.170 (0) finding files: woocommerce-placeholder.png: adding to list (9)
+0060.220 (0) finding files: woocommerce_uploads: adding to list (10)
+0060.270 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0060.507 (0) Total entities for the zip file: 4 directories, 93 files (0 skipped as non-modified), 1.1 MB
+0061.336 (0) Created uploads zip (0) - 1102.5 KB in 1 s (1132.2 KB/s) (sha1: 03a9a9136d39bee4b7bd4710987212b2a1f33f2d, sha256: 0fe7819bd769d8b7dadb7b9c2d86ebcbb0cf2367d72dcb8645b49b66d5df859f)
+0061.444 (0) Beginning backup of other directories found in the content directory (index: 0)
+0061.505 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0061.665 (0) Looking for candidates to backup in: C:\xampp\htdocs\beautyandbeyond/wp-content
+0061.770 (0) finding files: index.php: adding to list (1)
+0061.852 (0) finding files: plugins: skipping: this is the plugins directory
+0061.903 (0) finding files: themes: skipping: this is the themes directory
+0061.930 (0) finding files: updraft: skipping: this is the updraft directory
+0061.970 (0) finding files: upgrade: skipping: excluded by options
+0062.008 (0) finding files: uploads: skipping: this is the uploads directory
+0062.060 (0) finding files: wflogs: adding to list (2)
+0062.294 (0) Total entities for the zip file: 1 directories, 11 files (0 skipped as non-modified), 5.3 MB
+0066.240 (0) Created others zip (0) - 2455.3 KB in 4 s (610.8 KB/s) (sha1: eafc5e782d5788ca03fbc30dcd95426cef8bc317, sha256: 92e3c1720e832a5dec25dade093ddc9a9ac7c80823bac15bf08d449d8f5080b5)
+0066.427 (0) Saving backup status to database (elements: 8)
+0066.527 (0) Beginning creation of database dump (WordPress DB)
+0066.796 (0) Table wp_options: Total expected rows (approximate): 467
+0067.518 (0) Table wp_options: Total rows added: 466 in 0.70 seconds
+0067.557 (0) Table wp_options: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_options.table.gz - 214.1 KB)
+0067.689 (0) Table wp_users: Total expected rows (approximate): 9
+0067.818 (0) Table wp_users: Total rows added: 9 in 0.05 seconds
+0067.855 (0) Table wp_users: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_users.table.gz - 1 KB)
+0068.868 (0) Table wp_usermeta: Total expected rows (approximate): 346
+0068.970 (0) Table wp_usermeta: Total rows added: 346 in 0.07 seconds
+0069.081 (0) Table wp_usermeta: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_usermeta.table.gz - 4 KB)
+0069.252 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 5
+0069.347 (0) Table wp_actionscheduler_actions: Total rows added: 5 in 0.05 seconds
+0069.396 (0) Table wp_actionscheduler_actions: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_actionscheduler_actions.table.gz - 0.8 KB)
+0069.545 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0069.644 (0) Table wp_actionscheduler_claims: Total rows added: 0 in 0.05 seconds
+0069.790 (0) Table wp_actionscheduler_claims: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_actionscheduler_claims.table.gz - 0.3 KB)
+0070.121 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 0
+0070.289 (0) Table wp_actionscheduler_groups: Total rows added: 1 in 0.12 seconds
+0070.440 (0) Table wp_actionscheduler_groups: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_actionscheduler_groups.table.gz - 0.4 KB)
+0070.616 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 15
+0070.733 (0) Table wp_actionscheduler_logs: Total rows added: 15 in 0.05 seconds
+0070.774 (0) Table wp_actionscheduler_logs: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_actionscheduler_logs.table.gz - 0.6 KB)
+0070.939 (0) Table wp_commentmeta: Total expected rows (approximate): 2
+0071.036 (0) Table wp_commentmeta: Total rows added: 2 in 0.06 seconds
+0071.094 (0) Table wp_commentmeta: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0071.206 (0) Table wp_comments: Total expected rows (approximate): 14
+0071.315 (0) Table wp_comments: Total rows added: 14 in 0.06 seconds
+0071.359 (0) Table wp_comments: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_comments.table.gz - 1.2 KB)
+0071.640 (0) Table wp_links: Total expected rows (approximate): 0
+0071.830 (0) Table wp_links: Total rows added: 0 in 0.06 seconds
+0071.913 (0) Table wp_links: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_links.table.gz - 0.4 KB)
+0072.053 (0) Table wp_postmeta: Total expected rows (approximate): 1414
+0072.157 (0) Table wp_postmeta: Total rows added: 1414 in 0.07 seconds
+0072.202 (0) Table wp_postmeta: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_postmeta.table.gz - 12.8 KB)
+0072.351 (0) Table wp_posts: Total expected rows (approximate): 103
+0072.431 (0) Table wp_posts: Total rows added: 103 in 0.04 seconds
+0072.506 (0) Table wp_posts: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_posts.table.gz - 12.3 KB)
+0072.676 (0) Table wp_term_relationships: Total expected rows (approximate): 39
+0072.816 (0) Table wp_term_relationships: Total rows added: 43 in 0.10 seconds
+0072.869 (0) Table wp_term_relationships: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_term_relationships.table.gz - 0.5 KB)
+0074.379 (0) Table wp_term_taxonomy: Total expected rows (approximate): 25
+0074.493 (0) Table wp_term_taxonomy: Total rows added: 26 in 0.06 seconds
+0074.574 (0) Table wp_term_taxonomy: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0074.770 (0) Table wp_termmeta: Total expected rows (approximate): 20
+0074.925 (0) Table wp_termmeta: Total rows added: 23 in 0.09 seconds
+0074.978 (0) Table wp_termmeta: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_termmeta.table.gz - 0.6 KB)
+0075.161 (0) Table wp_terms: Total expected rows (approximate): 26
+0075.210 (0) Table wp_terms: Total rows added: 26 in 0.02 seconds
+0075.258 (0) Table wp_terms: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_terms.table.gz - 0.7 KB)
+0075.395 (0) Table wp_wc_product_meta_lookup: Total expected rows (approximate): 15
+0075.537 (0) Table wp_wc_product_meta_lookup: Total rows added: 15 in 0.10 seconds
+0075.600 (0) Table wp_wc_product_meta_lookup: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wc_product_meta_lookup.table.gz - 0.7 KB)
+0075.807 (0) Table wp_wc_tax_rate_classes: Total expected rows (approximate): 2
+0076.038 (0) Table wp_wc_tax_rate_classes: Total rows added: 2 in 0.09 seconds
+0076.085 (0) Table wp_wc_tax_rate_classes: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wc_tax_rate_classes.table.gz - 0.4 KB)
+0076.233 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 375
+0076.366 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 375 in 0.09 seconds
+0076.434 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_order_itemmeta.table.gz - 2.7 KB)
+0076.673 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (approximate): 0
+0076.988 (0) Table wp_woocommerce_payment_tokenmeta: Total rows added: 0 in 0.18 seconds
+0077.705 (0) Table wp_woocommerce_payment_tokenmeta: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_payment_tokenmeta.table.gz - 0.4 KB)
+0078.528 (0) Table wp_mailchimp_carts: Total expected rows (approximate): 0
+0078.772 (0) Table wp_mailchimp_carts: Total rows added: 0 in 0.06 seconds
+0078.960 (0) Table wp_mailchimp_carts: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_mailchimp_carts.table.gz - 0.3 KB)
+0079.249 (0) Table wp_mailchimp_jobs: Total expected rows (approximate): 0
+0079.359 (0) Table wp_mailchimp_jobs: Total rows added: 0 in 0.06 seconds
+0079.456 (0) Table wp_mailchimp_jobs: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_mailchimp_jobs.table.gz - 0.3 KB)
+0079.841 (0) Table wp_pieregister_code: Total expected rows (approximate): 0
+0080.094 (0) Table wp_pieregister_code: Total rows added: 0 in 0.11 seconds
+0080.159 (0) Table wp_pieregister_code: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_pieregister_code.table.gz - 0.3 KB)
+0080.306 (0) Table wp_pieregister_lockdowns: Total expected rows (approximate): 0
+0080.379 (0) Table wp_pieregister_lockdowns: Total rows added: 0 in 0.03 seconds
+0080.439 (0) Table wp_pieregister_lockdowns: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_pieregister_lockdowns.table.gz - 0.4 KB)
+0080.585 (0) Table wp_pieregister_redirect_settings: Total expected rows (approximate): 0
+0080.698 (0) Table wp_pieregister_redirect_settings: Total rows added: 0 in 0.05 seconds
+0080.751 (0) Table wp_pieregister_redirect_settings: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_pieregister_redirect_settings.table.gz - 0.4 KB)
+0081.033 (0) Table wp_wc_download_log: Total expected rows (approximate): 0
+0081.255 (0) Table wp_wc_download_log: Total rows added: 0 in 0.08 seconds
+0081.340 (0) Table wp_wc_download_log: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wc_download_log.table.gz - 0.4 KB)
+0081.657 (0) Table wp_wc_webhooks: Total expected rows (approximate): 0
+0081.784 (0) Table wp_wc_webhooks: Total rows added: 0 in 0.07 seconds
+0081.828 (0) Table wp_wc_webhooks: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wc_webhooks.table.gz - 0.5 KB)
+0082.120 (0) Table wp_wfblockediplog: Total expected rows (approximate): 0
+0082.281 (0) Table wp_wfblockediplog: Total rows added: 0 in 0.04 seconds
+0082.328 (0) Table wp_wfblockediplog: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfblockediplog.table.gz - 0.3 KB)
+0082.441 (0) Table wp_wfblocks7: Total expected rows (approximate): 0
+0082.576 (0) Table wp_wfblocks7: Total rows added: 0 in 0.11 seconds
+0082.639 (0) Table wp_wfblocks7: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfblocks7.table.gz - 0.4 KB)
+0082.754 (0) Table wp_wfconfig: Total expected rows (approximate): 250
+0083.077 (0) Table wp_wfconfig: Total rows added: 252 in 0.28 seconds
+0083.158 (0) Table wp_wfconfig: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfconfig.table.gz - 1441.1 KB)
+0084.740 (0) Table wp_wfcrawlers: Total expected rows (approximate): 0
+0084.937 (0) Table wp_wfcrawlers: Total rows added: 0 in 0.05 seconds
+0085.029 (0) Table wp_wfcrawlers: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfcrawlers.table.gz - 0.3 KB)
+0085.273 (0) Table wp_wffilechanges: Total expected rows (approximate): 0
+0085.420 (0) Table wp_wffilechanges: Total rows added: 0 in 0.06 seconds
+0085.478 (0) Table wp_wffilechanges: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wffilechanges.table.gz - 0.3 KB)
+0085.643 (0) Table wp_wffilemods: Total expected rows (approximate): 899
+0086.163 (0) Table wp_wffilemods: Total rows added: 903 in 0.48 seconds
+0086.252 (0) Table wp_wffilemods: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wffilemods.table.gz - 73.9 KB)
+0086.693 (0) Table wp_wfhits: Total expected rows (approximate): 19
+0086.779 (0) Table wp_wfhits: Total rows added: 19 in 0.05 seconds
+0086.858 (0) Table wp_wfhits: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfhits.table.gz - 1.4 KB)
+0086.975 (0) Table wp_wfhoover: Total expected rows (approximate): 0
+0087.240 (0) Table wp_wfhoover: Total rows added: 0 in 0.17 seconds
+0087.326 (0) Table wp_wfhoover: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfhoover.table.gz - 0.3 KB)
+0087.530 (0) Table wp_wfissues: Total expected rows (approximate): 0
+0087.610 (0) Table wp_wfissues: Total rows added: 0 in 0.03 seconds
+0087.658 (0) Table wp_wfissues: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfissues.table.gz - 0.4 KB)
+0087.984 (0) Table wp_wfknownfilelist: Total expected rows (approximate): 8310
+0088.630 (0) Table wp_wfknownfilelist: Total rows added: 8589 in 0.58 seconds
+0088.690 (0) Table wp_wfknownfilelist: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfknownfilelist.table.gz - 86.9 KB)
+0088.820 (0) Table wp_wflivetraffichuman: Total expected rows (approximate): 0
+0089.064 (0) Table wp_wflivetraffichuman: Total rows added: 0 in 0.17 seconds
+0089.636 (0) Table wp_wflivetraffichuman: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wflivetraffichuman.table.gz - 0.3 KB)
+0090.582 (0) Table wp_wflocs: Total expected rows (approximate): 1
+0090.788 (0) Table wp_wflocs: Total rows added: 2 in 0.07 seconds
+0090.936 (0) Table wp_wflocs: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wflocs.table.gz - 0.4 KB)
+0091.413 (0) Table wp_wflogins: Total expected rows (approximate): 19
+0091.508 (0) Table wp_wflogins: Total rows added: 19 in 0.07 seconds
+0091.560 (0) Table wp_wflogins: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wflogins.table.gz - 0.9 KB)
+0091.688 (0) Table wp_wfls_2fa_secrets: Total expected rows (approximate): 0
+0091.782 (0) Table wp_wfls_2fa_secrets: Total rows added: 0 in 0.06 seconds
+0092.157 (0) Table wp_wfls_2fa_secrets: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfls_2fa_secrets.table.gz - 0.4 KB)
+0092.506 (0) Table wp_wfls_settings: Total expected rows (approximate): 17
+0092.585 (0) Table wp_wfls_settings: Total rows added: 19 in 0.02 seconds
+0092.650 (0) Table wp_wfls_settings: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfls_settings.table.gz - 0.7 KB)
+0092.788 (0) Table wp_wfnotifications: Total expected rows (approximate): 4
+0092.923 (0) Table wp_wfnotifications: Total rows added: 4 in 0.09 seconds
+0092.997 (0) Table wp_wfnotifications: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfnotifications.table.gz - 0.6 KB)
+0093.154 (0) Table wp_wfpendingissues: Total expected rows (approximate): 0
+0093.258 (0) Table wp_wfpendingissues: Total rows added: 0 in 0.05 seconds
+0093.337 (0) Table wp_wfpendingissues: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfpendingissues.table.gz - 0.4 KB)
+0094.082 (0) Table wp_wfreversecache: Total expected rows (approximate): 1
+0094.213 (0) Table wp_wfreversecache: Total rows added: 2 in 0.08 seconds
+0094.283 (0) Table wp_wfreversecache: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfreversecache.table.gz - 0.4 KB)
+0094.427 (0) Table wp_wfsnipcache: Total expected rows (approximate): 0
+0094.505 (0) Table wp_wfsnipcache: Total rows added: 0 in 0.05 seconds
+0094.783 (0) Table wp_wfsnipcache: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfsnipcache.table.gz - 0.4 KB)
+0095.155 (0) Table wp_wfstatus: Total expected rows (approximate): 969
+0095.329 (0) Table wp_wfstatus: Total rows added: 969 in 0.12 seconds
+0095.375 (0) Table wp_wfstatus: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfstatus.table.gz - 15.5 KB)
+0095.534 (0) Table wp_wftrafficrates: Total expected rows (approximate): 0
+0095.654 (0) Table wp_wftrafficrates: Total rows added: 0 in 0.08 seconds
+0095.733 (0) Table wp_wftrafficrates: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wftrafficrates.table.gz - 0.3 KB)
+0095.930 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0096.417 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.44 seconds
+0097.407 (0) Table wp_woocommerce_api_keys: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0097.795 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0097.944 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.10 seconds
+0097.999 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0098.131 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0098.212 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.04 seconds
+0098.271 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0098.444 (0) Table wp_woocommerce_log: Total expected rows (approximate): 0
+0098.750 (0) Table wp_woocommerce_log: Total rows added: 0 in 0.25 seconds
+0098.958 (0) Table wp_woocommerce_log: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_log.table.gz - 0.4 KB)
+0099.169 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 50
+0099.278 (0) Table wp_woocommerce_order_items: Total rows added: 50 in 0.05 seconds
+0099.340 (0) Table wp_woocommerce_order_items: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_order_items.table.gz - 0.7 KB)
+0099.514 (0) Table wp_woocommerce_payment_tokens: Total expected rows (approximate): 0
+0099.629 (0) Table wp_woocommerce_payment_tokens: Total rows added: 0 in 0.06 seconds
+0099.705 (0) Table wp_woocommerce_payment_tokens: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_payment_tokens.table.gz - 0.4 KB)
+0100.319 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 6
+0100.463 (0) Table wp_woocommerce_sessions: Total rows added: 6 in 0.07 seconds
+0100.550 (0) Table wp_woocommerce_sessions: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_sessions.table.gz - 2 KB)
+0100.711 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (approximate): 0
+0100.795 (0) Table wp_woocommerce_shipping_zone_locations: Total rows added: 1 in 0.02 seconds
+0101.078 (0) Table wp_woocommerce_shipping_zone_locations: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_shipping_zone_locations.table.gz - 0.4 KB)
+0102.354 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (approximate): 2
+0102.649 (0) Table wp_woocommerce_shipping_zone_methods: Total rows added: 2 in 0.13 seconds
+0102.747 (0) Table wp_woocommerce_shipping_zone_methods: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_shipping_zone_methods.table.gz - 0.4 KB)
+0103.458 (0) Table wp_woocommerce_shipping_zones: Total expected rows (approximate): 0
+0103.767 (0) Table wp_woocommerce_shipping_zones: Total rows added: 1 in 0.15 seconds
+0103.818 (0) Table wp_woocommerce_shipping_zones: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_shipping_zones.table.gz - 0.4 KB)
+0104.024 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0104.117 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.06 seconds
+0104.180 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0104.399 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0104.520 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.07 seconds
+0104.601 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0104.854 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_options.table.gz (1/60): adding to final database dump
+0104.961 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_users.table.gz (2/60): adding to final database dump
+0105.023 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_usermeta.table.gz (3/60): adding to final database dump
+0105.059 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_actionscheduler_actions.table.gz (4/60): adding to final database dump
+0105.092 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_actionscheduler_claims.table.gz (5/60): adding to final database dump
+0105.136 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_actionscheduler_groups.table.gz (6/60): adding to final database dump
+0105.181 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_actionscheduler_logs.table.gz (7/60): adding to final database dump
+0105.215 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_commentmeta.table.gz (8/60): adding to final database dump
+0105.283 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_comments.table.gz (9/60): adding to final database dump
+0105.364 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_links.table.gz (10/60): adding to final database dump
+0105.521 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_postmeta.table.gz (11/60): adding to final database dump
+0105.621 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_posts.table.gz (12/60): adding to final database dump
+0105.673 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_term_relationships.table.gz (13/60): adding to final database dump
+0105.971 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_term_taxonomy.table.gz (14/60): adding to final database dump
+0106.651 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_termmeta.table.gz (15/60): adding to final database dump
+0106.762 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_terms.table.gz (16/60): adding to final database dump
+0106.941 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wc_product_meta_lookup.table.gz (17/60): adding to final database dump
+0107.030 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wc_tax_rate_classes.table.gz (18/60): adding to final database dump
+0107.097 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_order_itemmeta.table.gz (19/60): adding to final database dump
+0107.156 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_payment_tokenmeta.table.gz (20/60): adding to final database dump
+0107.207 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_mailchimp_carts.table.gz (21/60): adding to final database dump
+0107.432 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_mailchimp_jobs.table.gz (22/60): adding to final database dump
+0107.500 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_pieregister_code.table.gz (23/60): adding to final database dump
+0107.545 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_pieregister_lockdowns.table.gz (24/60): adding to final database dump
+0107.600 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_pieregister_redirect_settings.table.gz (25/60): adding to final database dump
+0107.678 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wc_download_log.table.gz (26/60): adding to final database dump
+0107.712 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wc_webhooks.table.gz (27/60): adding to final database dump
+0107.791 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfblockediplog.table.gz (28/60): adding to final database dump
+0107.870 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfblocks7.table.gz (29/60): adding to final database dump
+0107.967 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfconfig.table.gz (30/60): adding to final database dump
+0108.171 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfcrawlers.table.gz (31/60): adding to final database dump
+0108.221 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wffilechanges.table.gz (32/60): adding to final database dump
+0108.267 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wffilemods.table.gz (33/60): adding to final database dump
+0108.362 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfhits.table.gz (34/60): adding to final database dump
+0108.446 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfhoover.table.gz (35/60): adding to final database dump
+0108.480 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfissues.table.gz (36/60): adding to final database dump
+0108.525 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfknownfilelist.table.gz (37/60): adding to final database dump
+0108.590 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wflivetraffichuman.table.gz (38/60): adding to final database dump
+0108.637 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wflocs.table.gz (39/60): adding to final database dump
+0108.682 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wflogins.table.gz (40/60): adding to final database dump
+0108.741 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfls_2fa_secrets.table.gz (41/60): adding to final database dump
+0108.816 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfls_settings.table.gz (42/60): adding to final database dump
+0108.967 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfnotifications.table.gz (43/60): adding to final database dump
+0109.141 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfpendingissues.table.gz (44/60): adding to final database dump
+0109.228 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfreversecache.table.gz (45/60): adding to final database dump
+0109.297 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfsnipcache.table.gz (46/60): adding to final database dump
+0109.345 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wfstatus.table.gz (47/60): adding to final database dump
+0109.425 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_wftrafficrates.table.gz (48/60): adding to final database dump
+0109.525 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_api_keys.table.gz (49/60): adding to final database dump
+0109.581 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_attribute_taxonomies.table.gz (50/60): adding to final database dump
+0109.639 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (51/60): adding to final database dump
+0109.715 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_log.table.gz (52/60): adding to final database dump
+0109.839 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_order_items.table.gz (53/60): adding to final database dump
+0109.945 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_payment_tokens.table.gz (54/60): adding to final database dump
+0110.073 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_sessions.table.gz (55/60): adding to final database dump
+0110.277 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_shipping_zone_locations.table.gz (56/60): adding to final database dump
+0110.613 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_shipping_zone_methods.table.gz (57/60): adding to final database dump
+0111.326 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_shipping_zones.table.gz (58/60): adding to final database dump
+0111.645 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_tax_rate_locations.table.gz (59/60): adding to final database dump
+0111.699 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db-table-wp_woocommerce_tax_rates.table.gz (60/60): adding to final database dump
+0111.872 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db.gz: finished writing out complete database file (1856 KB)
+0112.629 (0) Total database tables backed up: 60 (backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db.gz, size: 1921683, sha1: 7cc4cc4098c5b6030fd6243f193ef37c5ce8b4c3, sha256: b80ac88a3499c2ec3cfb7f192565a823eaf3b749a8bfb3ee20edf42139faca35)
+0112.961 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0113.029 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0113.107 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0113.179 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-others.zip: others: This file has not yet been successfully uploaded: will queue
+0113.234 (0) backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db.gz: db: This file has not yet been successfully uploaded: will queue
+0113.301 (0) Saving backup history. Total backup size: 48.9 MB
+0113.435 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0113.603 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0113.674 (0) No remote despatch: user chose no remote backup service
+0113.827 (0) Recording as successfully uploaded: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-plugins.zip
+0114.371 (0) Recording as successfully uploaded: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-themes.zip
+0114.536 (0) Recording as successfully uploaded: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-uploads.zip
+0114.824 (0) Recording as successfully uploaded: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-others.zip
+0115.055 (0) Recording as successfully uploaded: backup_2020-04-29-0423_1921681168_beautyandbeyond_08bc24c41196-db.gz
+0116.231 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0116.385 (0) Number of backup sets in history: 1; groups (db): 1
+0116.697 (0) Examining (for databases) backup set with group_id=0, nonce=08bc24c41196, datestamp=1588134219 (Apr 29 2020 04:23:39)
+0116.774 (0) This backup set is the backup set just made, so will not be deleted.
+0116.774 (0) Number of backup sets in history: 1; groups (files): 1
+0116.830 (0) Examining (for files) backup set with nonce=08bc24c41196, datestamp=1588134219 (Apr 29 2020 04:23:39)
+0116.830 (0) This backup set is the backup set just made, so will not be deleted.
+0116.908 (0) This backup set is the backup set just made, so will not be deleted.
+0116.908 (0) This backup set is the backup set just made, so will not be deleted.
+0116.908 (0) This backup set is the backup set just made, so will not be deleted.
+0116.908 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0116.997 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0117.172 (0) Resume backup (08bc24c41196, 0): finish run
+0117.622 (0) Decremented the semaphore (fd) by 1
+0117.897 (0) Semaphore (fd) unlocked
+0117.987 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0118.224 (0) Fetching RSS news feed
+0118.346 (0) Fetched RSS news feed; result is a: SimplePie
+0118.390 (0) PHP event: code E_DEPRECATED: implode(): Passing glue string after array is deprecated. Swap the parameters (line 545, C:\xampp\htdocs\beautyandbeyond\wp-includes\SimplePie\Parse\Date.php)
+0118.434 (0) PHP event: code E_DEPRECATED: implode(): Passing glue string after array is deprecated. Swap the parameters (line 546, C:\xampp\htdocs\beautyandbeyond\wp-includes\SimplePie\Parse\Date.php)
+0118.515 (0) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: Akhil...
+0120.026 (0) The backup apparently succeeded and is now complete

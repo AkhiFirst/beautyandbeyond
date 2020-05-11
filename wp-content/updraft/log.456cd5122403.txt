@@ -1,0 +1,25 @@
+2918.003 (6) Opened log file at time: Wed, 29 Apr 2020 04:30:35 +0000 on http://192.168.1.168/beautyandbeyond
+2918.119 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.23 WP: 5.1.4 PHP: 7.4.4 (apache2handler, Windows NT DESKTOP-JJFPS69 10.0 build 18363 (Windows 10) AMD64) MySQL: 10.4.11-MariaDB WPLANG: en_US Server: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.4 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 48.7M | 6M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+2918.168 (6) Free space on disk containing Updraft's temporary directory: 747418.7 MB
+2918.268 (6) Backup run: resumption=6, nonce=456cd5122403, file_nonce=456cd5122403 begun at=1588131717 (2918s ago), job type=backup
+2918.357 (6) Scheduling a resumption (7) after 539 seconds (1588135175) in case this run gets aborted
+2918.443 (6) Checking if we have a zip executable available
+2918.517 (6) Creation of backups of directories: already finished
+2918.596 (6) Saving backup status to database (elements: 8)
+2918.750 (6) Database dump (WordPress DB): Creation was completed already
+2918.830 (6) backup_2020-04-29-0341_1921681168_beautyandbeyond_456cd5122403-plugins.zip: plugins: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem; now marking as uploaded (C:\xampp\htdocs\beautyandbeyond/wp-content/updraft/backup_2020-04-29-0341_1921681168_beautyandbeyond_456cd5122403-plugins.zip)
+2918.867 (6) Recording as successfully uploaded: backup_2020-04-29-0341_1921681168_beautyandbeyond_456cd5122403-plugins.zip
+2918.946 (6) backup_2020-04-29-0341_1921681168_beautyandbeyond_456cd5122403-themes.zip: themes: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem; now marking as uploaded (C:\xampp\htdocs\beautyandbeyond/wp-content/updraft/backup_2020-04-29-0341_1921681168_beautyandbeyond_456cd5122403-themes.zip)
+2918.985 (6) Recording as successfully uploaded: backup_2020-04-29-0341_1921681168_beautyandbeyond_456cd5122403-themes.zip
+2919.052 (6) backup_2020-04-29-0341_1921681168_beautyandbeyond_456cd5122403-uploads.zip: uploads: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem; now marking as uploaded (C:\xampp\htdocs\beautyandbeyond/wp-content/updraft/backup_2020-04-29-0341_1921681168_beautyandbeyond_456cd5122403-uploads.zip)
+2919.140 (6) Recording as successfully uploaded: backup_2020-04-29-0341_1921681168_beautyandbeyond_456cd5122403-uploads.zip
+2919.208 (6) backup_2020-04-29-0341_1921681168_beautyandbeyond_456cd5122403-others.zip: others: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem; now marking as uploaded (C:\xampp\htdocs\beautyandbeyond/wp-content/updraft/backup_2020-04-29-0341_1921681168_beautyandbeyond_456cd5122403-others.zip)
+2919.236 (6) Recording as successfully uploaded: backup_2020-04-29-0341_1921681168_beautyandbeyond_456cd5122403-others.zip
+2919.314 (6) backup_2020-04-29-0341_1921681168_beautyandbeyond_456cd5122403-db.gz: db: This file is not ours to upload and has been/will be handled by another job.
+2919.342 (6) Saving backup history. Total backup size: Unknown
+2919.419 (6) Resume backup (456cd5122403, 6): finish run
+2919.542 (6) There were no more files that needed uploading
+2919.630 (6) PHP event: code E_NOTICE: Undefined index: onedrive (line 3775, C:\xampp\htdocs\beautyandbeyond\wp-content\plugins\updraftplus\class-updraftplus.php)
+2919.757 (6) There were no errors in the uploads, so the 'resume' event (7) is being unscheduled
+2919.879 (6) No email will be sent - this backup set was empty.
+2919.919 (6) The backup apparently succeeded and is now complete

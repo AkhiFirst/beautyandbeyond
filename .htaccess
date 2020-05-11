@@ -1,0 +1,71 @@
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /beautyandbeyond/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /beautyandbeyond/index.php [L]
+</IfModule>
+
+# END WordPress
+
+# Wordfence WAF
+<IfModule mod_php5.c>
+	php_value auto_prepend_file 'C:\xampp\htdocs\beautyandbeyond/wordfence-waf.php'
+</IfModule>
+<IfModule mod_php7.c>
+	php_value auto_prepend_file 'C:\xampp\htdocs\beautyandbeyond/wordfence-waf.php'
+</IfModule>
+<Files ".user.ini">
+<IfModule mod_authz_core.c>
+	Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+	Order deny,allow
+	Deny from all
+</IfModule>
+</Files>
+Options All -Indexes
+<files .htaccess>
+Order allow,deny
+Deny from all
+</files>
+
+<files readme.html>
+Order allow,deny
+Deny from all
+</files>
+
+<files license.txt>
+Order allow,deny
+Deny from all
+</files>
+
+<files install.php>
+Order allow,deny
+Deny from all
+</files>
+
+<files wp-config.php>
+Order allow,deny
+Deny from all
+</files>
+
+<files error_log>
+Order allow,deny
+Deny from all
+</files>
+
+<files fantastico_fileslist.txt>
+Order allow,deny
+Deny from all
+</files>
+
+<files fantversion.php>
+Order allow,deny
+Deny from all
+</files>
+
+# END Wordfence WAF

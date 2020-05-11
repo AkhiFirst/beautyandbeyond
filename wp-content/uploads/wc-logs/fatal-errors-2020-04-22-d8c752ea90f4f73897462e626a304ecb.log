@@ -1,0 +1,4 @@
+2020-04-22T15:51:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\beautyandbeyond\wp-content\themes\easy-mart\inc\kirki\class-kirki-autoload.php on line 66
+
+2020-04-22T15:52:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\beautyandbeyond\wp-content\plugins\woocommerce\includes\class-wc-autoloader.php on line 53
+

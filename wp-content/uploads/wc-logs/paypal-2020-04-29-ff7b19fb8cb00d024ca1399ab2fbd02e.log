@@ -1,0 +1,415 @@
+2020-04-29T00:43:31+00:00 INFO Generating payment form for order 102. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-29T00:43:31+00:00 INFO PayPal Request Args for order 102: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/102/?key=wc_order_dtI8eT4XIuJ5c&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_dtI8eT4XIuJ5c&order_id=102&redirect&_wpnonce=f0a0185d7b
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-102
+    [custom] => {"order_id":102,"order_key":"wc_order_dtI8eT4XIuJ5c"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Body Shop banana Shampoo
+    [quantity_1] => 1
+    [amount_1] => 12
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-29T00:50:22+00:00 INFO Generating payment form for order 103. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-29T00:50:22+00:00 INFO PayPal Request Args for order 103: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/103/?key=wc_order_t1SpuWXTO8B2W&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_t1SpuWXTO8B2W&order_id=103&redirect&_wpnonce=cacab53e31
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-103
+    [custom] => {"order_id":103,"order_key":"wc_order_t1SpuWXTO8B2W"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Bblunt hair serum for Women
+    [quantity_1] => 1
+    [amount_1] => 29
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-29T01:34:18+00:00 INFO Generating payment form for order 104. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-29T01:34:18+00:00 INFO PayPal Request Args for order 104: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/104/?key=wc_order_m9RGOUcYyTIHH&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_m9RGOUcYyTIHH&order_id=104&redirect&_wpnonce=4612325245
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-104
+    [custom] => {"order_id":104,"order_key":"wc_order_m9RGOUcYyTIHH"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Bblunt hair serum for Women
+    [quantity_1] => 1
+    [amount_1] => 29
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-29T01:41:24+00:00 INFO Generating payment form for order 105. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-29T01:41:24+00:00 INFO PayPal Request Args for order 105: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/105/?key=wc_order_1YxXMqItVbM2K&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_1YxXMqItVbM2K&order_id=105&redirect&_wpnonce=4612325245
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-105
+    [custom] => {"order_id":105,"order_key":"wc_order_1YxXMqItVbM2K"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Bblunt hair serum for Women
+    [quantity_1] => 1
+    [amount_1] => 29
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-29T02:56:16+00:00 INFO Generating payment form for order 106. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-29T02:56:16+00:00 INFO PayPal Request Args for order 106: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/106/?key=wc_order_51ijXrAsObBC4&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_51ijXrAsObBC4&order_id=106&redirect&_wpnonce=4612325245
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-106
+    [custom] => {"order_id":106,"order_key":"wc_order_51ijXrAsObBC4"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Body Shop banana Shampoo
+    [quantity_1] => 1
+    [amount_1] => 12
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-29T02:57:01+00:00 INFO Received invalid response from PayPal PDT
+2020-04-29T02:59:10+00:00 INFO Generating payment form for order 107. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-29T02:59:10+00:00 INFO PayPal Request Args for order 107: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/107/?key=wc_order_3GkjLF8u0LSGc&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_3GkjLF8u0LSGc&order_id=107&redirect&_wpnonce=4612325245
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-107
+    [custom] => {"order_id":107,"order_key":"wc_order_3GkjLF8u0LSGc"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Bblunt hair serum for Women
+    [quantity_1] => 1
+    [amount_1] => 29
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-29T02:59:36+00:00 INFO Received invalid response from PayPal PDT
+2020-04-29T03:03:51+00:00 INFO Generating payment form for order 108. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-29T03:03:51+00:00 INFO PayPal Request Args for order 108: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/108/?key=wc_order_3PjCk1zLlHRpy&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_3PjCk1zLlHRpy&order_id=108&redirect&_wpnonce=4612325245
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-108
+    [custom] => {"order_id":108,"order_key":"wc_order_3PjCk1zLlHRpy"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Bblunt hair serum for Women
+    [quantity_1] => 1
+    [amount_1] => 29
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-29T03:07:43+00:00 INFO Generating payment form for order 109. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-29T03:07:43+00:00 INFO PayPal Request Args for order 109: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/109/?key=wc_order_nMDnkfdgpNdsB&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_nMDnkfdgpNdsB&order_id=109&redirect&_wpnonce=4612325245
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-109
+    [custom] => {"order_id":109,"order_key":"wc_order_nMDnkfdgpNdsB"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Bblunt hair serum for Women
+    [quantity_1] => 1
+    [amount_1] => 29
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-29T03:08:08+00:00 INFO Received invalid response from PayPal PDT
+2020-04-29T03:58:48+00:00 INFO Generating payment form for order 110. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-29T03:58:48+00:00 INFO PayPal Request Args for order 110: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/110/?key=wc_order_I5ba0QUOCUvio&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_I5ba0QUOCUvio&order_id=110&redirect&_wpnonce=4612325245
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-110
+    [custom] => {"order_id":110,"order_key":"wc_order_I5ba0QUOCUvio"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Bblunt hair serum for Women
+    [quantity_1] => 1
+    [amount_1] => 29
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-29T03:59:27+00:00 INFO Received invalid response from PayPal PDT
+2020-04-29T04:37:16+00:00 INFO Generating payment form for order 111. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-29T04:37:16+00:00 INFO PayPal Request Args for order 111: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/111/?key=wc_order_VYfSnpukiav2k&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_VYfSnpukiav2k&order_id=111&redirect&_wpnonce=732deea4d8
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-111
+    [custom] => {"order_id":111,"order_key":"wc_order_VYfSnpukiav2k"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Body Shop banana Shampoo
+    [quantity_1] => 1
+    [amount_1] => 12
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-29T04:40:03+00:00 INFO Received invalid response from PayPal PDT

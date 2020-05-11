@@ -1,0 +1,164 @@
+2020-04-28T23:24:11+00:00 INFO Generating payment form for order 98. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-28T23:24:11+00:00 INFO PayPal Request Args for order 98: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/98/?key=wc_order_5WGchX2Frj7gE&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_5WGchX2Frj7gE&order_id=98&redirect&_wpnonce=053a88877e
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-98
+    [custom] => {"order_id":98,"order_key":"wc_order_5WGchX2Frj7gE"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Bblunt hair serum for Women
+    [quantity_1] => 1
+    [amount_1] => 29
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-28T23:31:37+00:00 INFO Generating payment form for order 99. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-28T23:31:37+00:00 INFO PayPal Request Args for order 99: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/99/?key=wc_order_ovBY5cnaFykiu&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_ovBY5cnaFykiu&order_id=99&redirect&_wpnonce=42247c9c77
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-99
+    [custom] => {"order_id":99,"order_key":"wc_order_ovBY5cnaFykiu"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Clinique Charcoal facewash for Men
+    [quantity_1] => 1
+    [amount_1] => 18.99
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-28T23:36:22+00:00 INFO Generating payment form for order 100. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-28T23:36:22+00:00 INFO PayPal Request Args for order 100: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/100/?key=wc_order_EREmIGRDaEpuh&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_EREmIGRDaEpuh&order_id=100&redirect&_wpnonce=e303779f8a
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-100
+    [custom] => {"order_id":100,"order_key":"wc_order_EREmIGRDaEpuh"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Clinique Charcoal facewash for Men
+    [quantity_1] => 1
+    [amount_1] => 18.99
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-28T23:47:20+00:00 INFO Generating payment form for order 101. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-28T23:47:20+00:00 INFO PayPal Request Args for order 101: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/101/?key=wc_order_0v0gvYuGSe0x8&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_0v0gvYuGSe0x8&order_id=101&redirect&_wpnonce=816cf98f37
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-101
+    [custom] => {"order_id":101,"order_key":"wc_order_0v0gvYuGSe0x8"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Body Shop banana Shampoo
+    [quantity_1] => 1
+    [amount_1] => 12
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+

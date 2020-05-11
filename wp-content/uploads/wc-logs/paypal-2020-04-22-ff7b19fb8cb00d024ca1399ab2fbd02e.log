@@ -1,0 +1,123 @@
+2020-04-22T16:08:11+00:00 INFO Generating payment form for order 19. Notify URL: http://localhost/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-22T16:08:11+00:00 INFO PayPal Request Args for order 19: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/beautyandbeyond/checkout/order-received/19/?key=wc_order_fKJA7eGBbctBZ&utm_nooverride=1
+    [cancel_return] => http://localhost/beautyandbeyond/cart/?cancel_order=true&order=wc_order_fKJA7eGBbctBZ&order_id=19&redirect&_wpnonce=b0515fed34
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-19
+    [custom] => {"order_id":19,"order_key":"wc_order_fKJA7eGBbctBZ"}
+    [notify_url] => http://localhost/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Item
+    [quantity_1] => 1
+    [amount_1] => 19.99
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-22T20:28:25+00:00 INFO Generating payment form for order 20. Notify URL: http://localhost/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-22T20:28:25+00:00 INFO PayPal Request Args for order 20: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/beautyandbeyond/checkout/order-received/20/?key=wc_order_wKUSMB5pirlWg&utm_nooverride=1
+    [cancel_return] => http://localhost/beautyandbeyond/cart/?cancel_order=true&order=wc_order_wKUSMB5pirlWg&order_id=20&redirect&_wpnonce=df3515ca69
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-20
+    [custom] => {"order_id":20,"order_key":"wc_order_wKUSMB5pirlWg"}
+    [notify_url] => http://localhost/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Item
+    [quantity_1] => 1
+    [amount_1] => 19.99
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-04-22T23:36:05+00:00 INFO Generating payment form for order 36. Notify URL: http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+2020-04-22T23:36:05+00:00 INFO PayPal Request Args for order 36: Array
+(
+    [cmd] => _cart
+    [business] => sreekanthvobilishetty@gmail.com
+    [no_note] => 1
+    [currency_code] => USD
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://192.168.1.168/beautyandbeyond/checkout/order-received/36/?key=wc_order_6Ype0UzT6Vf4k&utm_nooverride=1
+    [cancel_return] => http://192.168.1.168/beautyandbeyond/cart/?cancel_order=true&order=wc_order_6Ype0UzT6Vf4k&order_id=36&redirect&_wpnonce=2bdfeee173
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-36
+    [custom] => {"order_id":36,"order_key":"wc_order_6Ype0UzT6Vf4k"}
+    [notify_url] => http://192.168.1.168/beautyandbeyond/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [night_phone_c] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 10.00
+    [item_name_1] => Item
+    [quantity_1] => 1
+    [amount_1] => 19.99
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
